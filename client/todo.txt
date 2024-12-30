@@ -1,0 +1,19 @@
+Important features:
+NOT CRITICAL FOR SOCKET PRACTICE-give the user option to add businesses (bonus: limit according to his plan)
+DELETE WILL SUFFICE-give the user an option to edit/delete his business
+-subscribe to business
+-Give user updates whenever a business is updated/deleted(Bonus:when commented on)
+
+-create a navbar inspired by the yelp navbar;
+
+-create a home page where users can browse businesses without signing in
+    DONE-fetch business data with tanstack and log it DONE
+    -create a businessCard and businessPage
+
+
+-add business creation page
+    -add option for business image link or choose from default images grid/carousel
+
+
+FINISHING TOUCHES:
+-turn the navbar css to a module css to avoid conflicting class names

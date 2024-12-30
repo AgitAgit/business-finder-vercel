@@ -1,0 +1,14 @@
+.logo{
+    font-size: larger;
+}
+.logo:hover{
+    cursor:pointer;
+}
+
+.drop-down-element{
+
+}
+
+.drop-down-element:hover{
+    background-color: gainsboro;
+}
